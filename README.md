@@ -12,6 +12,10 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&title_color=FF00FF&area=FF00FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&title_color=FF00FF&area=FF00FF&hide_border=true"/>
+
+<img width="100%" src="https://github.com/robertgoncalvesbatista/robertgoncalvesbatista/blob/output/github-contribution-grid-snake.svg"/>
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: 
@@ -23,6 +27,4 @@
 - 📫 How to reach me:
 - 😄 Pronouns: he/him/ele/dele
 - ⚡ Fun fact: ...
-
-<!--<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>-->
 
