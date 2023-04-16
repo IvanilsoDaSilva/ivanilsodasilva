@@ -1,6 +1,6 @@
 <!-- Animated text -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=300&lines=Hello,+welcome!;I'am+Ivanilso!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=290&lines=Hello,+welcome!;I'am+Ivanilso!"/>
 </div>
 
 <h1 align="right">📈 My statistics!</h1>
@@ -56,8 +56,8 @@
 <h1 align="right">📘 Some repositories!</h1>
 
 <div>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-bsi"/>
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-ti"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-bsi"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-ti"/>
 </div>
 <a href="https://github.com/IvanilsoDaSilva?tab=repositories">More repositories...</a>
 
