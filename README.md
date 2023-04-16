@@ -24,7 +24,7 @@
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=2&no-bg=true&column=3" />
 </div>
 
-![Snake animation](https://github.com/IvanilsoDaSilva/IvanilsoDaSIlva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="right">About me!</h1>
 
