@@ -55,7 +55,7 @@
 
 <h1 align="right">📘 Some repositories!</h1>
 
-<div align="center">
+<div>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-bsi"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-ti"/>
 </div>
