@@ -14,7 +14,7 @@
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo12Bernardo&layout=compact&hide_border=true&title_color=FF00FF&text_color=FFFFFF&bg_color=0d1117"/>
   </div>
   <div align="left">
-    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=3&no-bg=true&column=3" />
+    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=2&no-bg=true&column=3" />
   </div>
 </a>
 
