@@ -6,6 +6,8 @@
   
   <h1 align="right">My statistics!</h1>
   
+  ![Snake animation](https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg)
+  
   <!-- Graphic -->
   <div>
     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&title_color=FF00FF&area=FF00FF&hide_border=true"/>
