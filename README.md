@@ -1,6 +1,6 @@
 <!-- Animated text -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=290&lines=Hello,+welcome!;I'am+Ivanilso!"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=290&lines=Welcome!;I'am+Ivanilso!"/>
 </div>
 
 <h1 align="right">📈 My statistics!</h1>
