@@ -21,7 +21,7 @@
 
 <!-- Trophy -->
 <div align="left">
-  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=2&no-bg=true&column=3" />
+  <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=1&no-bg=true&column=3" />
 </div>
 
 <img width="100%" src="https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg"/> 
