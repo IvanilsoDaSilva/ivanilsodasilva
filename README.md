@@ -1,13 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!;I+am+Ivanilso!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!;I+am+Ivanilso!)](https://git.io/typing-svg)
 
 <a href="#"/>
+  </div>
   <div align="left">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IvanilsoDaSilva&show_icons=true&count_private=true&theme=dark" alt="Ivanilso da Silva github stats"/> 
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IvanilsoDaSIlva&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117" alt="Ivanilso da Silva github stats"/> 
   </div>
   <div align="right">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanilsoDaSilva&layout=compact&theme=dark&hide_progress=true"/>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo12Bernardo&layout=compact&hide_border=true&title_color=FF00FF&text_color=FFFFFF&bg_color=0d1117"/>
   </div>
 </a>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&title_color=FF00FF&area=FF00FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: 
@@ -19,6 +23,6 @@
 - 📫 How to reach me:
 - 😄 Pronouns: he/him/ele/dele
 - ⚡ Fun fact: ...
-<!--<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>-->
 
+<!--<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>-->
 
