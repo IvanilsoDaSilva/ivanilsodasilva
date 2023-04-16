@@ -1,6 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!;I+am+Ivanilso!)](https://git.io/typing-svg)
-
 <a href="#"/>
+  <div>
+    <img width="100%" src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!;I+am+Ivanilso!"/>
+  </div>
+  <h1>My statistics!</h1>
   <div>
     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&title_color=FF00FF&area=FF00FF&hide_border=true"/>
   </div>
@@ -11,7 +13,12 @@
   <div align="right">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo12Bernardo&layout=compact&hide_border=true&title_color=FF00FF&text_color=FFFFFF&bg_color=0d1117"/>
   </div>
+  <div align="left">
+    <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=3&no-bg=true&column=3" />
+  </div>
 </a>
+
+<h1>About me!</h1>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning: 
