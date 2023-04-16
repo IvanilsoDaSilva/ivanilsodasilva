@@ -9,7 +9,7 @@
   ![Snake animation](https://github.com/IvanilsoDaSilva/IvanilsoDaSIlva/blob/output/github-contribution-grid-snake.svg)
   
   <!-- Graphic -->
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&title_color=FF00FF&area=FF00FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&area=008B8B&title_color=FF00FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
   <!-- Git status -->
   </div>
