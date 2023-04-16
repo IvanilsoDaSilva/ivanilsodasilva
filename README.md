@@ -1,7 +1,7 @@
 <a href="#"/>
   <!-- Animated text -->
   <div>
-    <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!;I+am+Ivanilso!"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!;I'am+Ivanilso!"/>
   </div>
   
   <h1 align="right">My statistics!</h1>
@@ -30,13 +30,9 @@
 
 <h1 align="right">About me!</h1>
 
-- 🔭 I’m currently working on ...
+- 🔭 I'am currently interning at G8 Soluções.
 - 🌱 I’m currently learning: 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about to:  <a href="https://instagram.com/Ivanilso_dasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:ivanilsodasilva300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ivanilso-da-silva-concei%C3%A7%C3%A3o-filho-70502b239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-- 📫 How to reach me:
 - 😄 Pronouns: he/him/ele/dele
-- ⚡ Fun fact: ...
