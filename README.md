@@ -1,18 +1,28 @@
 <a href="#"/>
+  <!-- Animated text -->
   <div>
     <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+welcome!;I+am+Ivanilso!"/>
   </div>
+  
   <h1 align="right">My statistics!</h1>
+  
+  <!-- Graphic -->
   <div>
     <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&title_color=FF00FF&area=FF00FF&hide_border=true"/>
   </div>
+  
+  <!-- Git status -->
   </div>
   <div align="left">
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IvanilsoDaSIlva&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117" alt="Ivanilso da Silva github stats"/> 
   </div>
+  
+  <!-- Linguage status -->
   <div align="right">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcelo12Bernardo&layout=compact&hide_border=true&title_color=FF00FF&text_color=FFFFFF&bg_color=0d1117"/>
   </div>
+  
+  <!-- Trophy -->
   <div align="left">
     <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=2&no-bg=true&column=3" />
   </div>
