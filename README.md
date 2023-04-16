@@ -5,8 +5,6 @@
 
 <h1 align="right">My statistics!</h1>
 
-![Snake animation](https://github.com/IvanilsoDaSilva/IvanilsoDaSIlva/blob/output/github-contribution-grid-snake.svg)
-
 <!-- Graphic -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&area=008B8B&title_color=FF00FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -25,6 +23,8 @@
 <div align="left">
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=2&no-bg=true&column=3" />
 </div>
+
+![Snake animation](https://github.com/IvanilsoDaSilva/IvanilsoDaSIlva/blob/output/github-contribution-grid-snake.svg)
 
 <h1 align="right">About me!</h1>
 
