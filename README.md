@@ -7,7 +7,7 @@
 <h1 align="right">📈 My statistics!</h1>
 
 <!-- Graphic -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IvanilsoDaSIlva&bg_color=0d1117&color=FFFFFF&line=FF00FF&point=8E008E&area=008B8B&title_color=FF00FF&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=IVanilsoDaSIlva&bg_color=transparent&color=FFFFFF&line=FF00FF&point=8E008E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Trophy -->
 <div align="left">
@@ -30,26 +30,44 @@
 
 <h1 align="right">✨ Favorite technologies!</h1>
 <div style="display: inline_block">
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg"/> <!-- git -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/> <!-- java -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>  <!-- php -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> <!-- javascript -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/> <!-- mysql -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> <!-- html -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/> <!-- css -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/> <!-- spring -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg"/> <!-- tailwind -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/> <!-- bootstrap -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original-wordmark.svg"/> <!-- confluence -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg"/> <!-- jira -->
-  <img width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"/> <!-- vscode -->
+  
+  <!-- cloud hosting and databases -->
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=FFFFFF&color=FF00FF)&nbsp; 
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  
+  <!-- languages -->
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logoColor=FFFFFF&color=FF00FF)&nbsp; 
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF&color=FF00FF)&nbsp; 
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=FFFFFF&color=FF00FF)&nbsp; 
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF&color=FF00FF)&nbsp; 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF&color=FF00FF)&nbsp; 
+  
+  <!-- frameworks -->
+  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  
+  <!-- softwares -->
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=FFFFFF&color=FF00FF)&nbsp; 
+  
 </div>
 
 <h1 align="right">💬 Contact!</h1>
+
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&color=FF00FF)&nbsp;
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=FF00FF)&nbsp;
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=FF00FF)&nbsp;
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=FFFFFF&color=FF00FF)
+
 <div style="display: inline_block">
-  <a href="https://instagram.com/Ivanilso_dasilva" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ivanilsodasilva300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ivanilso-da-silva-concei%C3%A7%C3%A3o-filho-70502b239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "https://wa.me/+5522997011733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
+  <a href = "mailto:ivanilsodasilva300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
+    <a href = "https://www.instagram.com/Ivanilso_dasilva/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/ivanilso-da-silva-concei%C3%A7%C3%A3o-filho-70502b239" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=FFFFFF&color=FF00FF" target="_blank"></a> 
 </div>
 
 <h1 align="right">📘 Some repositories!</h1>
