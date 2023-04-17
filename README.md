@@ -57,12 +57,6 @@
 </div>
 
 <h1 align="right">💬 Contact!</h1>
-
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&color=FF00FF)&nbsp;
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=FF00FF)&nbsp;
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=FF00FF)&nbsp;
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=FFFFFF&color=FF00FF)
-
 <div style="display: inline_block">
     <a href = "https://wa.me/+5522997011733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
   <a href = "mailto:ivanilsodasilva300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
