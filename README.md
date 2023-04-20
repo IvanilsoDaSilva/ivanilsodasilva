@@ -67,8 +67,8 @@
 <h1 align="right">📘 Some repositories!</h1>
 
 <div>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-bsi"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-ti"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=hello-world"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=coursera"/>
 </div>
 <a href="https://github.com/IvanilsoDaSilva?tab=repositories">More repositories...</a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
