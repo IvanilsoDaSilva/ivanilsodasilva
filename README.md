@@ -25,8 +25,8 @@
   <img width="37.4%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanilsoDaSIlva&layout=compact&hide_border=false&title_color=FF00FF&text_color=FFFFFF&bg_color=0d1117" />
 </div>
 
-<img width="100%" src="https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg"/> 
-
+<!-- Snake -->
+<!-- <img width="100%" src="https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg"/> -->
 
 <h1 align="right">✨ Favorite technologies!</h1>
 <div style="display: inline_block">
