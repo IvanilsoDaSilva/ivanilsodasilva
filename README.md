@@ -80,8 +80,8 @@ MERRY CHRISTMAS TO YOU<br><br><br><br>
 
 <div>
   <!-- Repositories -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=hello-world"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=coursera"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-bsi"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=git-commands"/>
 </div>
 <a href="https://github.com/IvanilsoDaSilva?tab=repositories">More repositories...</a>
 
