@@ -1,4 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
+
+<div align="center">
+┈┈┈┈┈┈┈MERRY┈┈┈┈┈┈<br>
+╭╮┓┓┳╮┳╭╮┏┳┓┳┳╮╭╮╭╮<br>
+┃┈┣┫┣┫┃╰╮┈┃┈┃┃┃┣┫╰╮<br>
+╰╯┛┛┻╰┻╰╯┈┻┈┛┛┛┛┛╰╯<br>
+┈┈┈┈┈┈TO┈YOU┈┈┈┈┈┈<br>
+MERRY CHRISTMAS TO YOU<br><br>
+</div>
+
 <!-- Animated text -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=290&lines=Welcome!;I'am+Ivanilso!"/>
