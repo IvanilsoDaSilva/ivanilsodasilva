@@ -1,12 +1,14 @@
+<!-- Animated img -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
+<!-- Marry Christmas -->
 <div align="center">
 ┈┈┈┈┈┈┈MERRY┈┈┈┈┈┈<br>
 ╭╮┓┓┳╮┳╭╮┏┳┓┳┳╮╭╮╭╮<br>
 ┃┈┣┫┣┫┃╰╮┈┃┈┃┃┃┣┫╰╮<br>
 ╰╯┛┛┻╰┻╰╯┈┻┈┛┛┛┛┛╰╯<br>
 ┈┈┈┈┈┈TO┈YOU┈┈┈┈┈┈<br>
-MERRY CHRISTMAS TO YOU<br><br><br>
+MERRY CHRISTMAS TO YOU<br><br><br><br>
 </div>
 
 <!-- Animated text -->
@@ -77,8 +79,11 @@ MERRY CHRISTMAS TO YOU<br><br><br>
 <h1 align="right">Some repositories! 📘</h1>
 
 <div>
+  <!-- Repositories -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=hello-world"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=coursera"/>
 </div>
 <a href="https://github.com/IvanilsoDaSilva?tab=repositories">More repositories...</a>
+
+<!-- Animated img -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=footer"/>
