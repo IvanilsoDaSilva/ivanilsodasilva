@@ -3,7 +3,7 @@
 
 <!-- Marry Christmas -->
 <div align="center">
-｡☆✼★━━━━━━━━━━━━━━━━━★✼☆｡ <br>
+｡☆✼★━━━━━━━━━━━━━━━★✼☆｡ <br>
 </div>
 
 <!-- Animated text -->
