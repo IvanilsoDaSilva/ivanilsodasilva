@@ -77,6 +77,8 @@
   <!-- Repositories -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=sistema-bancario-frontend"/>
   <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=sistema-bancario-backend"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=iff-bsi"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IvanilsoDaSilva&repo=git-commands"/>
 </div>
 <a href="https://github.com/IvanilsoDaSilva?tab=repositories">More repositories...</a>
 
