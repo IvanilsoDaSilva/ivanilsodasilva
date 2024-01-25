@@ -68,7 +68,7 @@
   <a href = "https://wa.me/+5522997011733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
   <a href = "mailto:ivanilsodasilva300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
   <a href = "https://instagram.com/ivanilso_dasilva?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/ivanilso-da-silva-concei%C3%A7%C3%A3o-filho-70502b239" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logoColor=FFFFFF&color=FF00FF" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ivanilso-da-silva-concei%C3%A7%C3%A3o-filho-70502b239" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=FF00FF" target="_blank"></a> 
 </div>
 
 <h1 align="right">Some repositories! 📘</h1>
