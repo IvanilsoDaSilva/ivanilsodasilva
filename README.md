@@ -14,7 +14,7 @@
 <h1 align="right">My statistics! 📈</h1>
 
 <!-- Graphic -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IVanilsoDaSIlva&border_color=FFFF00&bg_color=FFFFFF&color=FF00FF&line=FF00FF&point=8E008E&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IVanilsoDaSIlva&bg_color=FF00FF&color=FFFFFF&line=FFFFFF&point=C0C0C0&area_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Trophy -->
 <div align="left">
