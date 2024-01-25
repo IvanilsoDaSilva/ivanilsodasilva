@@ -17,16 +17,16 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IVanilsoDaSIlva&bg_color=transparent&color=FFFFFF&line=FF00FF&point=8E008E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Trophy -->
-<div align="right">
+<div align="left">
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=1&no-bg=true&column=2&margin-w=1&margin-h=1&title=Joined2020,Commits"/>
 </div>
-<div align="left">
+<div align="right">
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=1&no-bg=true&column=2&margin-w=1&margin-h=1&title=Experience,Stars"/>
 </div>
-<div align="right">
+<div align="left">
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=1&no-bg=true&column=2&margin-w=1&margin-h=1&title=PullRequest,Repositories"/>
 </div>
-<div align="left">
+<div align="right">
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=1&no-bg=true&column=2&margin-w=1&margin-h=1&title=Followers,Issues"/>
 </div>
 
