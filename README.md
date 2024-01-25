@@ -24,12 +24,12 @@
 <!-- Git status -->
 </div>
 <div align="left">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=IvanilsoDaSIlva&show_icons=true&count_private=true&hide_border=true&title_color=FF00FF&icon_color=FF00FF&text_color=FFFFFF&bg_color=0d1117" alt="Ivanilso da Silva github stats"/> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=IvanilsoDaSIlva&show_icons=true&count_private=true&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="Ivanilso da Silva github stats"/> 
 </div>
 
 <!-- Linguage status -->
 <div align="right">
-  <img width="37.4%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanilsoDaSIlva&layout=compact&hide_border=false&title_color=FF00FF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanilsoDaSIlva&hide_progress=true&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 </div>
 
 <!-- Snake -->
