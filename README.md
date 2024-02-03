@@ -41,6 +41,11 @@
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanilsoDaSIlva&hide_progress=true&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 </div>
 
+<!-- Streak stats -->
+<div align="left">
+  <img width="50%" src="https://streak-stats.demolab.com/?user=IvanilsoDaSilva&background=FF00FF&border=FFFFFF&ring=FFFFFF&stroke=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
+</div>
+
 <!-- Snake -->
 <!-- <img width="100%" src="https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg"/> -->
 
