@@ -1,6 +1,10 @@
 <!-- Animated img -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
+<div align="center">
+  <img width=25% src="https://i.gifer.com/origin/24/2432cf5ff737ad7d1794a29d042eb02e_w200.gif"/>
+</div>
+
 <!-- Marry Christmas -->
 <div align="center">
 ｡☆✼★━━━━━━━━━━━━━━━★✼☆｡ <br>
