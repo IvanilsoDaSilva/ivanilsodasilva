@@ -71,7 +71,6 @@
   
   <!-- frameworks -->
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=FFFFFF&color=FF00FF)&nbsp;
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&color=FF00FF)&nbsp;
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&color=FF00FF)&nbsp;
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF&color=FF00FF)&nbsp;
@@ -86,7 +85,6 @@
   ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=FFFFFF&color=FF00FF)&nbsp;
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=FFFFFF&color=FF00FF)&nbsp;
   ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=FFFFFF&color=FF00FF)&nbsp;
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=FFFFFF&color=FF00FF)&nbsp;
   
 </div>
 
