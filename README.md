@@ -54,6 +54,7 @@
 <!-- <img width="100%" src="https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg"/> -->
 
 <h1 align="right">Favorite technologies! ✨</h1>
+
 <div style="display: inline_block">
   
   <!-- Cloud hosting and databases -->
