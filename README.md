@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
 <div align="center">
-  <img width=25% src="https://github.com/IvanilsoDaSilva/ivanilsodasilva/blob/main/assets/disco-voador.gif"/>
+  <img width=25% src="https://github.com/IvanilsoDaSilva/ivanilsodasilva/blob/main/assets/ufo.gif"/>
 </div>
 
 <!-- Marry Christmas -->
