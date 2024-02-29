@@ -37,7 +37,7 @@
 <!-- Git status -->
 </div>
 <div align="left">
-<img width="50%" src="" alt="Ivanilso da Silva github stats"/> 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=IvanilsoDaSIlva&show_icons=true&count_private=true&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="Ivanilso da Silva github stats"/> 
 </div>
 
 <!-- Linguage status -->
