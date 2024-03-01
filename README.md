@@ -15,7 +15,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=290&lines=Welcome!;I+am+Ivanilso!"/>
 </div>
 
-<h1 align="right">MY STATISTICS!📈</h1>
+<h1 align="right">MY STATISTICS 📈</h1>
 
 <!-- Graphic -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IVanilsoDaSIlva&bg_color=FF00FF&color=FFFFFF&line=FFFFFF&point=C0C0C0&area_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -53,7 +53,7 @@
 <!-- Snake -->
 <!-- <img width="100%" src="https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg"/> -->
 
-<h1 align="right">FAVORITE TECNOLOGIES✨</h1>
+<h1 align="right">FAVORITE TECNOLOGIES ✨</h1>
 
 <div style="display: inline_block">
   
@@ -91,7 +91,7 @@
   
 </div>
 
-<h1 align="right">CONTACT! 💬</h1>
+<h1 align="right">CONTACT 💬</h1>
 <div style="display: inline_block">
   <a href = "https://wa.me/+5522997011733"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
   <a href = "mailto:ivanilsodasilva300@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
@@ -99,7 +99,7 @@
   <a href="https://www.linkedin.com/in/ivanilso-da-silva-concei%C3%A7%C3%A3o-filho-70502b239" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=FF00FF" target="_blank"></a> 
 </div>
 
-<h1 align="right">SOME REPOSITORIES! 📘</h1>
+<h1 align="right">SOME REPOSITORIES 📘</h1>
 
 <div>
   <!-- Repositories -->
