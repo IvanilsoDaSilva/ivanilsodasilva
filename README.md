@@ -1,21 +1,28 @@
-<!-- Animated img -->
+<!-- Animated header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=120&section=header"/>
 
+<!-- Animated image -->
 <div align="center">
   <img width=25% src="https://ivanilsodasilva.github.io/read-me/assets/ufo.gif"/>
 </div>
 
-<!-- Marry Christmas -->
+<!-- Animated welcome -->
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=290&lines=Welcome!;I+am+Ivanilso!"/>
+</div> -->
+
+<!-- Caracter designer -->
 <div align="center">
 ｡☆✼★━━━━━━━━━━━━━━━★✼☆｡ <br>
 </div>
 
-<!-- Animated text -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF00FF&size=35&center=true&vCenter=true&width=290&lines=Welcome!;I+am+Ivanilso!"/>
-</div>
-
-<h1 align="right">MY STATISTICS 📈</h1>
+<!-- Statistics -->
+<!-- <h1 align="right">MY STATISTICS 📈</h1> -->
+<h1>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=MY%20STATISTICS📈&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
+  </div>
+</h1>
 
 <!-- Graphic -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IVanilsoDaSIlva&bg_color=FF00FF&color=FFFFFF&line=FFFFFF&point=C0C0C0&area_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -53,7 +60,13 @@
 <!-- Snake -->
 <!-- <img width="100%" src="https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg"/> -->
 
-<h1 align="right">FAVORITE TECNOLOGIES ✨</h1>
+<!-- Tecnologies -->
+<!-- <h1 align="right">FAVORITE TECNOLOGIES ✨</h1> -->
+<h1>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=FAVORITE%20TECNOLOGIES%20✨&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
+  </div>
+</h1>
 
 <div style="display: inline_block">
   
@@ -91,7 +104,14 @@
   
 </div>
 
-<h1 align="right">CONTACT 💬</h1>
+<!-- Contact -->
+<!-- <h1 align="right">CONTACT 💬</h1> -->
+<h1>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=CONTACT%20💬&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
+  </div>
+</h1>
+
 <div style="display: inline_block">
   <!--   <a href = "https://wa.me/{number}"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp; -->
   <!--   <a href = "mailto:{mail}"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp; -->
@@ -99,7 +119,13 @@
   <a href="https://www.linkedin.com/in/ivanilso-da-silva-concei%C3%A7%C3%A3o-filho-70502b239" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=FF00FF" target="_blank"></a> 
 </div>
 
-<h1 align="right">SOME REPOSITORIES 📘</h1>
+<!-- Tecnologies -->
+<!-- <h1 align="right">SOME REPOSITORIES 📘</h1> -->
+<h1>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=SOME%20REPOSITORIES%20📘&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
+  </div>
+</h1>
 
 <div>
   <!-- Repositories -->
