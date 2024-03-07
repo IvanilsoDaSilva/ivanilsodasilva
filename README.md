@@ -119,7 +119,7 @@
   <a href="https://www.linkedin.com/in/ivanilso-da-silva-concei%C3%A7%C3%A3o-filho-70502b239" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=FF00FF" target="_blank"></a> 
 </div>
 
-<!-- Tecnologies -->
+<!-- Repositories -->
 <!-- <h1 align="right">SOME REPOSITORIES 📘</h1> -->
 <h1>
   <div align="center">
