@@ -3,7 +3,7 @@
 
 <!-- Animated image -->
 <div align="center">
-  <img width=25% src="https://ivanilsodasilva.github.io/read-me/assets/ivanilsodasilva/ufo.gif"/>
+  <img width=25% src="https://ivanilsodasilva.github.io/read-me/assets/sticker.gif"/>
 </div>
 
 <!-- Animated welcome -->
