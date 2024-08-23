@@ -17,10 +17,9 @@
 </div>
 
 <!-- Review -->
-<!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
+<!-- https://github.com/ivanilsodasilva/github-profile-3d-contrib -->
 
 <!-- Statistics -->
-<!-- <h1 align="right">MY STATISTICS 📈</h1> -->
 <h1>
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=MY%20STATISTICS📈&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
@@ -63,8 +62,7 @@
 <!-- Snake -->
 <!-- <img width="100%" src="https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg"/> -->
 
-<!-- Tecnologies -->
-<!-- <h1 align="right">FAVORITE TECNOLOGIES ✨</h1> -->
+<!-- Favorite tecnologies -->
 <h1>
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=FAVORITE%20TECNOLOGIES%20✨&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
@@ -109,8 +107,26 @@
   
 </div>
 
+<!-- Currently studying -->
+<h1>
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=CURREENTLY%STUDYING%20✏&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
+  </div>
+</h1>
+
+<div style="display: inline_block">
+  
+  <!-- Languages -->
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  
+  <!-- Frameworks -->
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=FFFFFF&color=FF00FF)&nbsp;
+  
+</div>
+
 <!-- Contact -->
-<!-- <h1 align="right">CONTACT 💬</h1> -->
 <h1>
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=CONTACT%20💬&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
@@ -118,14 +134,11 @@
 </h1>
 
 <div style="display: inline_block">
-  <!--   <a href = "https://wa.me/{number}"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp; -->
-  <!--   <a href = "mailto:{mail}"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp; -->
   <a href = "https://instagram.com/ivanilso_dasilva?igshid=ZDdkNTZiNTM="><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&color=FF00FF" target="_blank"></a>&nbsp;
   <a href="https://www.linkedin.com/in/ivanilso-da-silva-concei%C3%A7%C3%A3o-filho-70502b239" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=FF00FF" target="_blank"></a> 
 </div>
 
 <!-- Repositories -->
-<!-- <h1 align="right">SOME REPOSITORIES 📘</h1> -->
 <h1>
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=SOME%20REPOSITORIES%20📘&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
