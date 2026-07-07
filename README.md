@@ -30,7 +30,7 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IVanilsoDaSIlva&bg_color=FF00FF&color=FFFFFF&line=FFFFFF&point=C0C0C0&area_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Trophy -->
-<div align="left">
+<!-- <div align="left">
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=1&no-bg=true&column=2&margin-w=1&margin-h=1&title=Joined2020,Commits"/>
 </div>
 <div align="right">
@@ -41,23 +41,23 @@
 </div>
 <div align="right">
   <img width="50%" src="https://github-profile-trophy.vercel.app/?username=IvanilsoDaSilva&theme=dracula&row=1&no-bg=true&column=2&margin-w=1&margin-h=1&title=Followers,Issues"/>
-</div>
+</div> -->
 
 <!-- Git status -->
-</div>
+<!-- </div>
 <div align="left">
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=IvanilsoDaSIlva&show_icons=true&count_private=true&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF" alt="Ivanilso da Silva github stats"/> 
-</div>
+</div> -->
 
 <!-- Linguage status -->
-<div align="right">
+<!-- <div align="right">
   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanilsoDaSIlva&hide_progress=true&bg_color=FF00FF&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
-</div>
+</div> -->
 
 <!-- Streak stats -->
-<div align="left">
+<!-- <div align="left">
   <img width="50%" src="https://streak-stats.demolab.com/?user=IvanilsoDaSilva&background=FF00FF&border=FFFFFF&ring=FFFFFF&stroke=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&dates=FFFFFF&sideLabels=FFFFFF"/>
-</div>
+</div> -->
 
 <!-- Snake -->
 <!-- <img width="100%" src="https://github.com/IvanilsoDaSilva/IvanilsoDaSilva/blob/output/github-contribution-grid-snake.svg"/> -->
