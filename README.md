@@ -20,14 +20,15 @@
 <!-- https://github.com/ivanilsodasilva/github-profile-3d-contrib -->
 
 <!-- Statistics -->
-<h1>
+<!-- <h1>
   <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=FFFFFF&text=MY%20STATISTICS📈&fontColor=FF00FF&fontAlignY=50&fontSize=30&fontAlign=50&animation=twinkling"/>
   </div>
-</h1>
+</h1> -->
 
-<!-- Graphic -->
+<!-- Graphic
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IVanilsoDaSIlva&bg_color=FF00FF&color=FFFFFF&line=FFFFFF&point=C0C0C0&area_color=FFFFFF&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ -->
 
 <!-- Trophy -->
 <!-- <div align="left">
